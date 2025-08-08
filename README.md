@@ -1,3 +1,5 @@
+![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0-blue)
+
 # Projeto: Script de Tarefas em Node.js
 
 Este é um script simples em node.js que gerencia uma lista de tarefas.

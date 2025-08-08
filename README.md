@@ -21,3 +21,13 @@ Ele mostra o total de tarefas, quantas estão pendentes e concluídas, e lista o
 
 Projeto feito para treinar manipulação básica de arrays e objetos em Node.js como parte do roteiro de aprendizado backend.
 
+## Exemplo de execução
+
+$ node tarefas.js
+Total de tarefas: 3
+Pendentes: 2
+Concluidas: 1
+
+Tarefas pendentes:
+- Estudar Node
+- Criar um repositorio no GitHub
